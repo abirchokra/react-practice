@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d.jpg",
+        "title": "The Future of Technology",
+        "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+        "author": "John Doe",
+        "posted_date": "2024-10-20",
+        "reading_time": 5,
+        "hashtags": [
+            "#science",
+            "#technology",
+            "#innovation"
+        ]
+    },
+    {
+        "id": 2,
+        "cover_img": "https://images.unsplash.com/photo-1485546784815-e40fe8868af0.jpg",
+        "title": "Exploring Hidden Gems",
+        "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
+        "author": "Jane Smith",
+        "posted_date": "2024-10-19",
+        "reading_time": 8,
+        "hashtags": [
+            "#travel",
+            "#lifestyle",
+            "#adventure"
+        ]
+    },
+    {
+        "id": 3,
+        "cover_img": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4.jpg",
+        "title": "Mastering Culinary Arts",
+        "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
+        "author": "Alice Johnson",
+        "posted_date": "2024-10-18",
+        "reading_time": 10,
+        "hashtags": [
+            "#food",
+            "#cooking",
+            "#recipes"
+        ]
+    },
+    {
+        "id": 4,
+        "cover_img": "https://images.unsplash.com/photo-1555685812-4b74353e5fbb.jpg",
+        "title": "Fitness Hacks for Beginners",
+        "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
+        "author": "Michael Lee",
+        "posted_date": "2024-10-17",
+        "reading_time": 7,
+        "hashtags": [
+            "#fitness",
+            "#health",
+            "#wellness"
+        ]
+    },
+    {
+        "id": 5,
+        "cover_img": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde.jpg",
+        "title": "Capturing Nature's Beauty",
+        "author_img": "https://randomuser.me/api/portraits/men/5.jpg",
+        "author": "Robert Brown",
+        "posted_date": "2024-10-16",
+        "reading_time": 6,
+        "hashtags": [
+            "#photography",
+            "#nature",
+            "#inspiration"
+        ]
+    }
+]
